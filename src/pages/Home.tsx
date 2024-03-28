@@ -1,8 +1,9 @@
 import DataGrid from "../components/DataGrid"
+import TablePosts from "../components/TablePosts"
 
 const Home = () => {
     return(
-        <DataGrid />   
+        <TablePosts />   
     )    
 }
 export default Home
